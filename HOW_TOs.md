@@ -58,7 +58,7 @@ You guys are good!
 
 ### Install Pytorch
 
-Installing Pytorch is easy, just enter:
+Once you installed Python using Anaconda3, installing Pytorch is easy, just enter:
 
 ```bash
 conda install pytorch torchvision -c soumith

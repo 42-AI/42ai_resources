@@ -14,7 +14,7 @@ For reasons of space on your `dump`, we will install [Anaconda3](https://www.ana
 
 > Be careful at each step to properly replace `login` with your own login.
 
-Okay, follow these command to setup everything:
+Okay, follow these commands to setup everything:
 
 ```bash
 cd ~/goinfre
@@ -28,9 +28,9 @@ Follow the instructions. __Warning!__ When it asks you to specify the location p
 /Users/login/goinfre/anaconda3
 ```
 
-It takes few minutes to install everything. Once it is done, the install ask you to add Anaconda3 install location to PATH in you `.bash_profile`: hit _return_.
+It takes few minutes to install everything. Once it is done, the install asks you to add Anaconda3 install location to PATH in your `.bash_profile`: hit _return_.
 
-If you are not using Bash, add manually this line to your `.zshrc` (for example):
+If you are not using Bash, add this line manually to your `.zshrc` (for example):
 
 ```
 export PATH="/Users/login/goinfre/anaconda3/bin:$PATH"
@@ -42,7 +42,7 @@ Then reload the shell:
 source ~/.zshrc
 ```
 
-Now Python is installed on your Mac. Each time you change Mac you will have to repeat the operation to reinstall it if it is not installed. To check which python is binder on the `python` command, just do:
+Now Python is installed on your Mac. Each time you change Macs you will have to repeat the operation to reinstall it if it is not installed. To check which python is bound on the `python` command, just do:
 
 ```bash
 which python
@@ -66,7 +66,7 @@ conda install pytorch torchvision -c soumith
 
 #### Known issues
 
-If this error appear when you launch a program using Pytorch:
+If this error appears when you launch a program using Pytorch:
 
 ```
 [...]

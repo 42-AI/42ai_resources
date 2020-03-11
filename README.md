@@ -1,5 +1,13 @@
-# ai-for-42-students
+<p align="center">
+  <img src="assets/logo_v4_noir.png" width="200" alt="42 AI Logo" />
+</p>
 
-On this repo you will find various resources, tutorials, FAQs, known issues on AI practice at school 42.
+<h1 align="center">
+  Artificial Intelligence Resources
+</h1>
+<h3 align="center">
+  Share resources, assets and information :robot:
+</h3>
+<br/>
 
-Feel free to submit a pull request to help us improve, correct or add information. Thank you!
+In this repository, you will find various resources, tutorials, FAQs, known issues and so forth on AI practice at school 42.

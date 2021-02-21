@@ -27,7 +27,7 @@ In this repository, you will find various resources, tutorials, FAQs, known issu
 
 ## ML and infosec
 
-- [Machine Learning applications in information security](https://github.com/matboivin/ml-for-infosec-resources)
+- [Machine Learning applications in information security](https://github.com/apt-42/resources/blob/master/ml_for_infosec.md)
 
 ## 42 projects
 
